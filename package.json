@@ -28,7 +28,8 @@
     "copy-to-clipboard": "latest",
     "react": "^19",
     "react-dom": "^19",
-    "react-router-dom": "latest"
+    "react-router-dom": "latest",
+    "chart.js": "latest"
   },
   "devDependencies": {
     "@eslint/js": "^9",
